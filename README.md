@@ -5,11 +5,15 @@ Permanent archive (**arXiv**): https://arxiv.org/abs/2209.10518
 ## Cover Page
 
 > [Samuel James Johnston](https://samjohnston.org) <[samj@samj.net](mailto:samj@samj.net)>
+>
 > [S P Jain School of Global Management](https://spjain.org)
 > 
 > This dissertation is submitted for the degree of
+> 
 > **Master of Business Administration (Executive)**
+> 
 > *Specialisation in Finance*
+> 
 > 2022
 
 ## Abstract
