@@ -29,3 +29,18 @@ To explore this nascent area, a review of related research was conducted and soc
 | DOI: | https://doi.org/10.48550/arXiv.2209.10518 (arXiv-issued DOI via [DataCite](https://datacite.org)) |
 | License: | Creative Commons Attribution-ShareAlike 4.0 International ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)) |
 
+## Code
+
+### Database
+
+A company database ([Crunchbase](https://crunchbase.com)) was used to examine the state of the industry, however the data itself is subject to proprietary licenses and cannot be shared.
+
+1. [database/recode.sps](database/recode.sps): This SPSS Syntax was used to recode the data from the company database (Crunchbase), exported as CSV.
+1. [database/analysis.sps](database/analysis.sps): This SPSS Syntax was used to automatically execute the analysis itself, such that the survey data could be periodically updated as new responses were submitted.
+
+### Survey
+
+[IBM SPSS](https://www.ibm.com/sg-en/analytics/spss-statistics-software) 28.0.1.1 was used for the analytics of survey data collected using Typeform.
+
+1. [survey/recode.sps](survey/recode.sps): This SPSS Syntax was used to recode the data received from the survey tool (Typeform), exported as Microsoft Excel and/or transmitted to Google Workspace. The exported Excel file may need to be opened and saved in Excel to avoid an SPSS error [“(2003) All sheets in Excel file appear to be empty.”].
+1. [survey/analysis.sps](survey/analysis.sps): This SPSS Syntax was used to automatically execute the analysis itself, such that the survey data could be periodically updated as new responses were submitted.
