@@ -1,14 +1,16 @@
 # Sustainable Venture Capital
 
-[Samuel James Johnston](https://samjohnston.org) <[samj@samj.net](mailto:samj@samj.net)>
-
-[S P Jain School of Global Management](https://spjain.org)
-
-This dissertation is submitted for the degree of
-**Master of Business Administration (Executive)**
-*Specialisation in Finance*
-
 Permanent archive (**arXiv**): https://arxiv.org/abs/2209.10518
+
+## Cover Page
+
+> [Samuel James Johnston](https://samjohnston.org) <[samj@samj.net](mailto:samj@samj.net)>
+> [S P Jain School of Global Management](https://spjain.org)
+> 
+> This dissertation is submitted for the degree of
+> **Master of Business Administration (Executive)**
+> *Specialisation in Finance*
+> 2022
 
 ## Abstract
 Sustainability initiatives are set to benefit greatly from the growing involvement of venture capital, in the same way that other technological endeavours have been enabled and accelerated in the post-war period. With the spoils increasingly being shared between shareholders and other stakeholders, this requires a more nuanced view than the finance-first methodologies deployed to date. Indeed, it is possible for a venture-backed sustainability startup to deliver outstanding results to society in general without returning a cent to investors, though the most promising outcomes deliver profit with purpose, satisfying all stakeholders in ways that make existing 'extractive' venture capital seem hollow.
