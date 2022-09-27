@@ -1,6 +1,7 @@
 # Sustainable Venture Capital
 
 [Samuel James Johnston](https://samjohnston.org) <[samj@samj.net](mailto:samj@samj.net)>
+
 [S P Jain School of Global Management](https://spjain.org)
 
 This dissertation is submitted for the degree of
